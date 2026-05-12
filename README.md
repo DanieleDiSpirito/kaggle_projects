@@ -9,5 +9,4 @@ Welcome to the repository where I collect my experiments and submissions for **K
 | Progetto | Dataset | Algorithm | Scoring Metric | Score | State |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Titanic** | [Click here](https://www.kaggle.com/c/titanic) | Decision Tree | Accuracy | 0.77511 | ✅ |
-| | | | | | |
 
